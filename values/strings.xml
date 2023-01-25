@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Save Contacts</string>
+    <string name="etnumber_label">Last call number will be shown here</string>
+    <string name="ic_des_phone">Last call number</string>
+    <string name="ic_des_name">Name</string>
+    <string name="ic_des_service">Service</string>
+    <string name="ic_des_description">Description</string>
+</resources>
